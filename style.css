@@ -1,0 +1,38 @@
+nav {
+                               
+          font-family: 'Bebas Neue', cursive;
+          font-family: 'Oswald', sans-serif;
+           font-family: 'Roboto', sans-serif;
+          
+ }
+ .nav-color{
+           background-color: wheat;
+ }
+.photo{
+          width: 220px;
+          height: 43px;
+        
+}
+#PENGUINS{
+          color:orange;
+}
+.button{
+          
+          
+          background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+           border-radius: 5px;
+           color: white;
+           font-family: Roboto;
+            font-size: x-small;
+          
+
+
+
+}        
+
+.size{
+          
+          width: 30%;
+          height: 50%
+          
+}
